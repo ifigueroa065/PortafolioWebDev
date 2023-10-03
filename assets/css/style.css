@@ -288,6 +288,7 @@ h6 {
 
 #hero:before {
   content: "";
+  background: url("../img/fon.png") top right no-repeat;
   background:rgb(26 26 26 / 80%);
   position: absolute;
   bottom: 0;
